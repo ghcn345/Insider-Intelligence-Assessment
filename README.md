@@ -25,6 +25,8 @@ Description of the structure of the repository and its contents:
 ```
 ├── README.md                           <- The top-level README for reviewers of this project
 ├── Assessment                          <- Data Internship Assessment in Jupyter notebook
+├── Presentation                        <- PDF version of project presentation
+├── TakeHomeAssessment                  <- Document of Data Internship Assessment
 ├── data                                <- Insider Intelligence Standard Assessment Data Set
 └── images                              <- logo
 ```
