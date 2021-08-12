@@ -1,5 +1,5 @@
 <p>
-<img src="images/Insider-Intelligence.jpg" width="900" height="500">
+<img src="images/Insider-Intelligence.png" width="900" height="504">
 </p>
 
 # Insider Intelligence Standard Assessment for Data Intern
