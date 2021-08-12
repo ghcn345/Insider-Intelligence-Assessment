@@ -9,13 +9,14 @@
 [Blog](https://kinder-chen.medium.com)
 
 
-
+![graph](/images/funnel1.png)
+![graph](/images/funnel2.png)
 
 
 
 ## For More Information
 
-Please review question analysis in [Jupyter Notebook](). \
+Please review question analysis in [Jupyter Notebook](https://github.com/ghcn345/Insider-Intelligence-Assessment/blob/master/Assessment.ipynb) or [Presentation](https://github.com/ghcn345/Insider-Intelligence-Assessment/blob/master/Presentation.pdf). \
 For any additional questions, please contact **Ning Chen—chen.ning345@gmail.com**.
 
 ## Repository Structure
