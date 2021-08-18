@@ -32,7 +32,10 @@ Tasks:
 
 ![graph](/images/funnel1.png)
 ![graph](/images/funnel2.png)
-
+![graph](/images/rate.png)
+![graph](/images/desktop.png)
+![graph](/images/mobile.png)
+![graph](/images/sex.png)
 
 
 ## For More Information
