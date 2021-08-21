@@ -8,6 +8,8 @@
 [LinkedIn](https://www.linkedin.com/in/ningchen345/) \
 [Blog](https://kinder-chen.medium.com)
 
+This assessment is designed to focus on the core competencies of a successful data analyst at Insider Intelligence; conversion analysis, producing and sharing insights to leadership, and offering recommendations. The assessment has two components, with the first focusing on the ability to convey technical insight to company leadership and the second part doing a standard funnel conversion analysis.
+
 - Part 1:
 Explain to company leadership what model lift is and why they should care. We expect the technical issues like ROC and AUC to be addressed but conveyed to leadership in simple and actionable terms.
 
@@ -26,15 +28,18 @@ The Chief Executive Officer isn’t satisfied with the company's sales results, 
 
 Tasks:
 - 1. Create a full picture of funnel conversion rate (for both desktop and mobile)
-- 2. Generate specific insights on what the product team can do in order to improve conversion rate.
-- 3. Anything else you have discovered that might improve conversion rate.
-
 
 ![graph](/images/funnel1.png)
 ![graph](/images/funnel2.png)
+
+- 2. Generate specific insights on what the product team can do in order to improve conversion rate.
+
 ![graph](/images/rate.png)
 ![graph](/images/desktop.png)
 ![graph](/images/mobile.png)
+
+- 3. Anything else you have discovered that might improve conversion rate.
+
 ![graph](/images/sex.png)
 
 
