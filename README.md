@@ -4,9 +4,8 @@
 
 # Insider Intelligence Standard Assessment for Data Intern
 
-**Applicant**: Ning Chen \
-[LinkedIn](https://www.linkedin.com/in/ningchen345/) \
-[Blog](https://kinder-chen.medium.com)
+**Applicant**: Ning Chen
+
 
 This assessment is designed to focus on the core competencies of a successful data analyst at Insider Intelligence; conversion analysis, producing and sharing insights to leadership, and offering recommendations. The assessment has two components, with the first focusing on the ability to convey technical insight to company leadership and the second part doing a standard funnel conversion analysis.
 
@@ -19,6 +18,7 @@ Please review the scenario outlined below and use all the data files included in
 Scenario:
 
 You are presented with user activity data from a commerce website. The site has 4 pages:
+
 - Home Page - Where users land first (all users start here).
 - Search Page - From the Home Page, they can do a search for products and arrive on the Search Page.
 - Payment Page - Once on the Search Page, the user might click on a product that would take her to the Payment Page. Here she will be asked to provide credit card information to buy that product.
@@ -34,13 +34,13 @@ Tasks:
 
 - 2. Generate specific insights on what the product team can do in order to improve conversion rate.
 
-![graph](/images/rate.png)
-![graph](/images/desktop.png)
-![graph](/images/mobile.png)
+![graph](/images/rate.jpg)
+![graph](/images/desktop.jpg)
+![graph](/images/mobile.jpg)
 
 - 3. Anything else you have discovered that might improve conversion rate.
 
-![graph](/images/sex.png)
+![graph](/images/sex.jpg)
 
 
 ## For More Information
